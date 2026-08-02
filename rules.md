@@ -30,7 +30,7 @@ We never sell your personal data. In fact, we don't even store them...
 
 ## Contact Us ##
 
-For any privacy questions, email us at: [mailto:bastard.alain@gmail.com].
+For any privacy questions, email us at: [bastard.alain@gmail.com].
 
 If you want, please tell me:
 
