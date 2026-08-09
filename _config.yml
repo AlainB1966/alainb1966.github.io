@@ -1,0 +1,16 @@
+title: My projects
+description: Un site minimaliste propulsé par Jekyll et hébergé sur GitHub.
+url: "https://alainb1966.github.io"
+baseurl: ""
+
+# Configuration du thème natif GitHub Pages
+theme: jekyll-theme-minimal
+
+# Informations sur l'auteur
+author:
+  name: Alain Bastard
+  email: bastard.alain@gmail.com
+
+# Paramètres de lecture
+markdown: kramdown
+permalink: /blog/:title/
