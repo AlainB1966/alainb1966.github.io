@@ -1,6 +1,7 @@
 title: Mes projets
 description: Un site web simple listant mes projets hébergé sur GitHub.
 url: "https://alainb1966.github.io"
+permalink: "projets"
 baseurl: ""
 
 # Configuration du thème natif GitHub Pages
